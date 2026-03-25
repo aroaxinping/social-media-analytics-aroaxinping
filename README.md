@@ -107,4 +107,19 @@ python src/analyze.py
 
 ---
 
-`Python` `pandas` `matplotlib` `numpy` · *Período: 24 Feb – 24 Mar 2026*
+---
+
+## Dashboard interactivo
+
+`dashboard/crossplatform_dashboard.html` — 6 graficos comparativos: vistas medias, ER medio, distribucion de vistas (box plot), save rate vs share rate, seguidores por publicacion, ER vs vistas scatter.
+
+Para verlo: descarga el archivo y abrelo en el navegador, o clona el repo y ejecuta `open dashboard/crossplatform_dashboard.html`.
+
+Regenerar con datos nuevos:
+```bash
+python3 dashboard/build_dashboard.py
+```
+
+---
+
+`Python` `pandas` `matplotlib` `plotly` `numpy` · *Periodo: 24 Feb – 24 Mar 2026*
