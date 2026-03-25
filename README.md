@@ -100,6 +100,18 @@ python src/analyze.py
 
 ---
 
+## Dashboards en Tableau Cloud
+
+Los tres workbooks están publicados en Tableau Cloud y disponibles como `.twbx` en `tableau/`:
+
+| Workbook | Contenido | Archivo |
+|---|---|---|
+| [TikTok Analytics — @aroaxinping](https://prod-ch-a.online.tableau.com/t/aroaxinping-a03b6e9139/views/TikTokAnalyticsaroaxinping) | Vistas, ER, completion rate y virality score por vídeo | `tableau/TikTok Analytics — @aroaxinping.twbx` |
+| [Instagram Analytics — @aroaxinping](https://prod-ch-a.online.tableau.com/t/aroaxinping-a03b6e9139/views/InstagramAnalyticsaroaxinping) | Top Reels por visualizaciones, ER y Save Rate por contenido | `tableau/Instagram Analytics — @aroaxinping.twbx` |
+| [Cross-platform Analytics — @aroaxinping](https://prod-ch-a.online.tableau.com/t/aroaxinping-a03b6e9139/views/Cross-platformAnalyticsaroaxinping) | Comparativa mensual de vistas y engagement rate entre TikTok e Instagram | `tableau/Cross-platform Analytics — @aroaxinping.twbx` |
+
+---
+
 ## Proyectos individuales
 
 - [instagram-analytics-aroaxinping](https://github.com/aroaxinping/instagram-analytics-aroaxinping) — análisis profundo de Instagram con métricas diarias, por reel y Excel avanzado
