@@ -1,4 +1,4 @@
-# 📊 Social Media Analytics — TikTok vs Instagram
+# Social Media Analytics — TikTok vs Instagram
 
 > Análisis comparativo cross-platform @aroaxinping · Período: 24 Feb – 24 Mar 2026
 
